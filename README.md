@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# Current Working Content.
+# Current Working Project.
 |Project Name|Repo Link|Start Date|
 |---|---|---|
 |DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|
