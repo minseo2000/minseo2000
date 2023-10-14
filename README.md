@@ -1,9 +1,11 @@
 # Hi there 👋
 
 # Current Working Content.
-||||
+|Project Name|Repo Link|Start Date|
 |---|---|---|
-||||
+|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|
+|English Word Application Project|https://github.com/minseo2000/EnglishWordProject|2023.10.14|
+
 
 <!--
 **minseo2000/minseo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
