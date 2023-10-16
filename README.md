@@ -1,10 +1,18 @@
 # Hi there 👋
 
 # Current Working Project.
-|Project Name|Repo Link|Start Date|
-|---|---|---|
-|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|
-|English Word Application Project|https://github.com/minseo2000/EnglishWordProject|2023.10.14|
+|Project Name|Repo Link|Start Date|End Data |
+|---|---|---|---|
+|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13||
+|English Word Application Project|https://github.com/minseo2000/EnglishWordProject|2023.10.14||
+|Sb_home_page Project| |2023.10.16||
+|tripfriends Project||2023.10.16||
+
+# Current Studying List
+|Book Name|StartData|
+|---|---|
+|도커 교과서||
+| | |
 
 
 <!--
