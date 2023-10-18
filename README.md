@@ -8,6 +8,7 @@
 |Sb_home_page Project| |2023.10.16||
 |tripfriends Project||2023.03.16|2023.10.17|
 |Univ research Project||2023.06.06||
+|Stock Study and Project||2023.10.18(수)||
 
 
 # Current Studying List
