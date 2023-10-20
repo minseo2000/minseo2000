@@ -9,7 +9,7 @@
 |tripfriends Project||2023.03.16|2023.10.17|
 |Univ research Project||2023.06.06||
 |Stock Study and Project||2023.10.18(수)||
-
+|AutoML ||2023.10.20(금) ||
 
 # Current Studying List
 |Book Name|StartData|book_image|
