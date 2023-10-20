@@ -16,6 +16,8 @@
 |---|---|---|
 |도커 교과서|2023.10.8|<img src="https://github.com/minseo2000/minseo2000/assets/59526414/90545e32-9690-4838-b498-d8b77d3ad98e" width="200">
 |개발자를 위한 머신러닝&딥러닝 |2023.10.9 |<img src="https://github.com/minseo2000/minseo2000/assets/59526414/be268d61-3c2d-4725-a50d-c59434b14bb3" width="200">|
+|머신러닝 자동화 시스템 구축|2023.10.20|<img src="https://github.com/minseo2000/minseo2000/assets/59526414/3fd72295-beb4-4562-b36d-2a62a82eeea4" width="200">|
+
 
 
 <!--
