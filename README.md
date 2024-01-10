@@ -7,9 +7,7 @@
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
 |---|---|---|---|
-|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|2023.12.28|
 |Sb_home_page Project| |2023.10.16|~|
-|tripfriends Project||2023.03.16|2023.10.17|
 
 # Study List
 |Book Name|Start-Date|book_image|
@@ -38,6 +36,13 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+# Complete Projects
+|Project Name|Repo Link|Start Date|End Data |
+|---|---|---|---|
+|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|2023.12.28|
+|tripfriends Project||2023.03.16|2023.10.17|
+|고양이 테트리스 (flutter)||2023.04.05|2023.05.05|
+|냥목 (flutter)||2023.12.20|2024.01.05|
 
 <!--
 **minseo2000/minseo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
