@@ -12,6 +12,7 @@
 |유통관리사||
 |전기기능사||
 |투자자산운용사||
+|토익||
 
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
