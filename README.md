@@ -4,6 +4,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseo2000&custom_title=Minseo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
 </div>
 
+# Certification Studies
+|Name|Works|
+|---|---|
+|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도|
+|정보처리기사||
+|유통관리사||
+|전기기능사||
+|투자자산운용사||
+
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
 |---|---|---|---|
