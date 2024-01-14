@@ -5,14 +5,14 @@
 </div>
 
 # Certification Studies
-|Name|Works|
-|---|---|
-|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도|
-|정보처리기사||
-|유통관리사||
-|전기기능사||
-|투자자산운용사||
-|토익||
+|Name|Works|Page|
+|---|---|---|
+|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도,|P26|
+|정보처리기사|||
+|유통관리사|||
+|전기기능사|||
+|투자자산운용사|||
+|토익|||
 
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
