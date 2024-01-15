@@ -27,6 +27,7 @@
 |---|---|---|
 |도커 교과서|2023.10.8|<img src="https://github.com/minseo2000/minseo2000/assets/59526414/90545e32-9690-4838-b498-d8b77d3ad98e" width="200">
 |Hands-On Machine Learning with Scikit-learn and Tensorflow|2023.10.25|<img width="200" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/51bc8336-7dae-41b5-93f7-9aa6f79e7135">|
+|컨테이너 인프라 환경 구축을 위한 쿠버네티스 / 도커|2024.01.15||
 
 ## 💻 Tech Stack
 
