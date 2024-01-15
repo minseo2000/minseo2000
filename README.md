@@ -7,7 +7,7 @@
 # Certification Studies
 |Name|Works|Page|
 |---|---|---|
-|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도,|P54|
+|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도,|P66|
 |정보처리기사|||
 |유통관리사|||
 |전기기능사|||
