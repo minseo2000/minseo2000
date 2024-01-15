@@ -1,4 +1,4 @@
-# Hi there 👋
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqq# Hi there 👋
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseo2000&custom_title=Minseo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
@@ -7,7 +7,7 @@
 # Certification Studies
 |Name|Works|Page|
 |---|---|---|
-|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도,|P66|
+|빅데이터 분석기사|Section 01 빅데이터 개요 및 활용<br>Section 02 빅데이터 기술 및 제도,|P71|
 |정보처리기사|||
 |유통관리사|2. 도 소매 유통기관(업태 및 시설)의 유형과 특징<br>3.소매업태의 종류와 특징<br>4.신유통업태의 이해|p18|
 |전기기능사|2강 전압, 전류, 저항||
