@@ -23,32 +23,23 @@
 |Stock Analysis|2023.01.13|~|
 
 # Study List
-|Book Name|Start-Date|book_image|
-|---|---|---|
-|도커 교과서|2023.10.8|<img src="https://github.com/minseo2000/minseo2000/assets/59526414/90545e32-9690-4838-b498-d8b77d3ad98e" width="200">
-|Hands-On Machine Learning with Scikit-learn and Tensorflow|2023.10.25|<img width="200" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/51bc8336-7dae-41b5-93f7-9aa6f79e7135">|
-|컨테이너 인프라 환경 구축을 위한 쿠버네티스 / 도커|2024.01.15|![image](https://github.com/minseo2000/minseo2000/assets/59526414/c9de4b94-b0c3-4d4c-9d98-6113c7fe9b1a)|
-|OpenAPI와 스웨거를 활용한 실전 API 설계|2024.01.17|![image](https://github.com/minseo2000/minseo2000/assets/59526414/c7dd3582-ff98-4c99-ad5a-2ea41e1f1fa6)|
+|Book|start at.|Book|Start at.|
+|---|---|---|---|
+|<img src="https://github.com/minseo2000/minseo2000/assets/59526414/90545e32-9690-4838-b498-d8b77d3ad98e" width="200">|2023.10.8|<img width="200" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/51bc8336-7dae-41b5-93f7-9aa6f79e7135">|2023.10.25|
+|<img width="200" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/c9de4b94-b0c3-4d4c-9d98-6113c7fe9b1a">|2024.01.15|<img width="200" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/c7dd3582-ff98-4c99-ad5a-2ea41e1f1fa6">|2024.01.17|
 
 ## 💻 Tech Stack
 
 <h4>Back-End</h4>
 <div>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 <h4>Front-End<h4>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 # Complete Projects
