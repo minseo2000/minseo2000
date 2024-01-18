@@ -4,9 +4,10 @@
 |Project Name|Repo Link|Start Date|End Data |
 |---|---|---|---|
 |Sb_home_page Project| |2023.10.16|~|
-|Ggulmat - Data Collection|2023.01.13|~|
-|Battery Factory - Data Colleciton|2023.01.13|~|
-|Stock Analysis|2023.01.13|~|
+|Ggulmat - Data Collection||2023.01.13|~|
+|Battery Factory - Data Colleciton||2023.01.13|~|
+|Stock Analysis||2023.01.13|~|
+|Management System||2023.01.19|~|
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseo2000&custom_title=Minseo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
