@@ -3,7 +3,7 @@
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
 |---|---|---|---|
-|Sb_home_page Project| |2023.10.16|~|
+|Sb_home_page Project| |2023.10.16|2024-02-27|
 |Ggulmat - Data Collection||2023.01.13|~|
 |Battery Factory - Data Colleciton||2023.01.13|~|
 |Stock Analysis||2023.01.13|~|
