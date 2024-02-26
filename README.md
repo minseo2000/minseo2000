@@ -60,7 +60,7 @@
 # Tools
 
 <div>
-  <img src="https://img.shields.io/badge/lucid-282C33?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Lucid-282C33?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
