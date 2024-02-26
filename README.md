@@ -28,7 +28,16 @@
 <h4>Back-End</h4>
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599Cstyle=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon RDS-527FFF?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/docekr-2496ED?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 <h4>Front-End<h4>
 <div>
@@ -36,16 +45,18 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+  
+<h4>Data Science</h4>
+<div>
+  
+</div>
+
 
 # Tools
 
 <div>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/lucid-282C33?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
