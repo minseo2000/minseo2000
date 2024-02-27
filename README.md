@@ -22,6 +22,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseo2000&custom_title=Minseo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
 </div>
 
+# Backjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pms10012001)](https://solved.ac/pms10012001/)
+
 
 # 💻 Tech Stacks 
 
