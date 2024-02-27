@@ -23,7 +23,7 @@
 </div>
 
 # Backjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pms10012001)](https://solved.ac/pms10012001/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlqlxks123@naver.com)](https://solved.ac/qlqlxks123@naver.com/)
 
 
 # 💻 Tech Stacks 
