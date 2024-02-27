@@ -30,7 +30,7 @@
 <h4>Back-End</h4>
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://simpleicons.org/icons/cplusplus.svg">
   <img src="https://img.shields.io/badge/cplusplus-00599Cstyle=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=firebase&logoColor=white">
