@@ -1,13 +1,18 @@
-# Hi there 👋
-
+# 자기소개
+안녕하세요~ 
 
 # Certificates
 
 
 # Education
 
+|동국대학교 WISE캠퍼스 컴퓨터공학과 재학|<img width="300" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/576d37e3-ae45-4412-8740-9fdd3c6ebffd">|
+|--|--|
 
 # Award & Activity
+|공모전 이름|수상 경력|이미지|
+|--|--|---|
+한국관광공사 관광데이터 활용 공모전 |장려상|<img width="150" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/1df53010-8884-454a-8000-c9e40b3846cb">|
 
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
