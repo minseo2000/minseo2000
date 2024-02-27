@@ -31,15 +31,15 @@
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/c-4479A1?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c-plusplus-00599Cstyle=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon RDS-527FFF?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/docekr-2496ED?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599Cstyle=for-the-badge&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon RDS-527FFF?style=for-the-badge&logo=amazon RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <h4>Front-End<h4>
 <div>
@@ -50,11 +50,11 @@
   
 <h4>Data Science</h4>
 <div>
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   
 </div>
 
