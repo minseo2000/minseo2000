@@ -70,9 +70,9 @@
 # Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Lucid-282C33?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Lucid-282C33?style=for-the-badge&logo=lucid&logoColor=white">
+  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
