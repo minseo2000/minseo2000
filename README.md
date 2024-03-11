@@ -14,6 +14,11 @@
 |--|--|---|
 한국관광공사 관광데이터 활용 공모전 |장려상|<img width="150" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/1df53010-8884-454a-8000-c9e40b3846cb">|
 
+# 프로젝트
+|프로젝트|주제|이미지|
+|--|--|--|
+|한이음 팀 프로젝트|핀테크 특화 대학생 금융 교육 서비스(앱/웹) 제작|<img width="171" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/1e88f046-ff45-4d33-a52c-57d28e0bea06">|
+
 # Projects
 |Project Name|Repo Link|Start Date|End Data |
 |---|---|---|---|
