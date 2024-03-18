@@ -21,15 +21,6 @@
 |--|--|--|
 |한이음 팀 프로젝트|핀테크 특화 대학생 금융 교육 서비스(앱/웹) 제작|<img width="171" alt="image" src="https://github.com/minseo2000/minseo2000/assets/59526414/1e88f046-ff45-4d33-a52c-57d28e0bea06">|
 
-# Projects
-|Project Name|Repo Link|Start Date|End Data |
-|---|---|---|---|
-|Sb_home_page Project| |2023.10.16|2024-02-27|
-|Ggulmat - Data Collection||2023.01.13|~|
-|Battery Factory - Data Colleciton||2023.01.13|~|
-|Stock Analysis||2023.01.13|~|
-|Management System||2023.01.19|~|
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minseo2000&custom_title=Minseo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Minseo's Github Activity Graph" width="100%">
 </div>
@@ -84,14 +75,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+
 # Complete Projects
-|Project Name|Repo Link|Start Date|End Data |
+|Project Name|Repo Link|Start Date|End Date |
 |---|---|---|---|
-|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|2023.12.28|
+|Sb_home_page Project| |2023.10.16|2024-02-27|
 |tripfriends Project||2023.03.16|2023.10.17|
 |고양이 테트리스 (flutter)||2023.04.05|2023.05.05|
 |냥목 (flutter)||2023.12.20|2024.01.05|
-
+|DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|2023.12.28|
 # Book List
 
 
