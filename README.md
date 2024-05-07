@@ -1,5 +1,4 @@
-# 자기소개
-안녕하세요~ 
+# HI~ 😊😊 This is Minseo's Github
 
 <a href="https://findipp.ddns.net">홈페이지 확인하기</a>
 
