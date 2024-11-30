@@ -89,7 +89,7 @@
 
 
 # SNS
-  <img src="[https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png)">
+  <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcHg3UJ_WV_Jkuf52jfBfdWfgg9UHqw-EVw&s"></a>
 
 <!--
 **minseo2000/minseo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
