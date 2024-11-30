@@ -88,6 +88,8 @@
 |DataBase Project|https://github.com/minseo2000/db_project|2023.10.13|2023.12.28|
 
 
+# SNS
+  <img src="[https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png)">
 
 <!--
 **minseo2000/minseo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
