@@ -89,7 +89,7 @@
 
 
 # SNS
-  <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcHg3UJ_WV_Jkuf52jfBfdWfgg9UHqw-EVw&s"></a>
+  <a href="https://www.instagram.com/parkminseo00/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcHg3UJ_WV_Jkuf52jfBfdWfgg9UHqw-EVw&s"></a>
 
 <!--
 **minseo2000/minseo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
